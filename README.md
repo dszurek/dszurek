@@ -53,12 +53,3 @@ MS Computer Science student focusing on autonomous vehicle systems, AI/ML, and s
 - Roles with hands-on software development, controls/robotics, embedded systems, or data-driven products.
 
 ---
-
-### 📫 Get in Touch
-
-- Email: djszurek@crimson.ua.edu
-- LinkedIn: https://www.linkedin.com/in/danielszurek
-- GitHub: https://github.com/dszurek
-
----
-
