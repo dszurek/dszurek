@@ -1,16 +1,76 @@
-## Hi there 👋
+# 👋 Hey, I'm Daniel Szurek
 
-<!--
-**dszurek/dszurek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[Website](https://www.danielszurek.com) • [LinkedIn](https://www.linkedin.com/in/danielszurek) • [Email](mailto:djszurek@crimson.ua.edu) • [GitHub](https://github.com/dszurek)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Quick Summary
+
+MS Computer Science student focusing on autonomous vehicle systems, AI/ML, and software engineering. I combine academic research and industry experience to build practical solutions from full-stack vehicle control systems to enterprise data analytics.
+
+---
+
+### 🔑 Highlights
+
+- Lead experience: Directing a 15+ student team on the EcoCAR CAV project (ADAS, sensor fusion, V2X).
+- AI & Autonomy: Model Predictive Control, Reinforcement Learning, Gaussian Processes, and sensor fusion research & implementations.
+- Production & Analytics: Built enterprise dashboards and ETL using Power BI, Tableau, Azure, and Generative AI for productivity features.
+- Full-stack engineering: Comfortable across embedded systems (NXP, RTMaps, Simulink), Python & C++ stacks, mobile (Flutter), and cloud environments.
+
+---
+
+### 🧩 Highlighted Projects
+
+- **EcoCAR CAV System** — Full-stack connected & automated vehicle platform (Simulink, RTMaps, Python, C++). Key work: lane-centering assist, cooperative adaptive cruise control, V2X connectivity.
+- **Voice Assistant (LLM)** — LLM-based voice assistant running on an NXP NavQ+ companion computer for vehicle control and infotainment.
+- **Low-Resolution Facial Recognition** — Lightweight CNN pipeline (Custom DSR upscaling + EdgeFace) for edge devices.
+- **Flutter Maps Application** — Complete maps and routing UI for vehicle infotainment with GPS and Google Places integration.
+- **Enterprise Data Analytics** — Power BI & Tableau dashboards, Grafana monitoring, and Azure-based ETL for SSAB.
+
+(Links to code / demos provided in the repository or website Projects section.)
+
+---
+
+### 🛠 Tech Stack (Core)
+
+**Languages:** Python • C++ • JavaScript • SQL • MATLAB • Dart (Flutter)
+
+**Frameworks / Tools:** React • Simulink • RTMaps • TensorFlow • PyTorch • Docker
+
+**Data & Cloud:** Power BI • Tableau • Grafana • Azure (Data Factory, Databricks) • SQL
+
+**Dev Tools:** Git • Linux • Containers
+
+---
+
+### 🎓 Education & Research
+
+**M.S., Computer Science** (Accelerated) — The University of Alabama (Expected Dec 2026)
+
+- GPA: 3.88 — Honors College
+- Focus: Autonomous Systems, AI/ML, Reinforcement Learning
+- Research: MPC, hybrid DRL/MPC controllers, Gaussian Processes (expected publications)
+
+**B.S., Computer Science** — The University of Alabama (Expected Dec 2026)
+
+- GPA: 3.88 — Honors College
+- Focus: Algorithms, AI/ML, Data Science
+- Minor: Mathematics
+
+---
+
+### 📌 What I'm Looking For
+
+- Full-time or internship opportunities in autonomous systems, AI/ML engineering, or software engineering roles at companies building high-impact systems in automotive or general tech.
+- Roles with hands-on software development, controls/robotics, embedded systems, or data-driven products.
+
+---
+
+### 📫 Get in Touch
+
+- Email: djszurek@crimson.ua.edu
+- LinkedIn: https://www.linkedin.com/in/danielszurek
+- GitHub: https://github.com/dszurek
+
+---
+
