@@ -31,18 +31,6 @@ MS Computer Science student focusing on autonomous vehicle systems, AI/ML, and s
 
 ---
 
-### 🛠 Tech Stack (Core)
-
-**Languages:** Python • C++ • JavaScript • SQL • MATLAB • Dart (Flutter)
-
-**Frameworks / Tools:** React • Simulink • RTMaps • TensorFlow • PyTorch • Docker
-
-**Data & Cloud:** Power BI • Tableau • Grafana • Azure (Data Factory, Databricks) • SQL
-
-**Dev Tools:** Git • Linux • Containers
-
----
-
 ### 🎓 Education & Research
 
 **M.S., Computer Science** (Accelerated) — The University of Alabama (Expected Dec 2026)
