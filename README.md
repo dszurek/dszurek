@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Daniel Szurek
 
-[Website](https://www.danielszurek.com) • [LinkedIn](https://www.linkedin.com/in/danielszurek) • [Email](mailto:djszurek@crimson.ua.edu) • [GitHub](https://github.com/dszurek)
+[Website](https://www.danielszurek.com) • [LinkedIn](https://www.linkedin.com/in/danielszurek) • [Email](mailto:djszurek@crimson.ua.edu)
 
 ---
 
