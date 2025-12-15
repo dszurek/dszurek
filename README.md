@@ -25,8 +25,7 @@ MS Computer Science student focusing on autonomous vehicle systems, AI/ML, and s
 - **Voice Assistant (LLM)** — LLM-based voice assistant running on an NXP NavQ+ companion computer for vehicle control and infotainment.
 - **Low-Resolution Facial Recognition** — Lightweight CNN pipeline (Custom DSR upscaling + EdgeFace) for edge devices.
 - **Flutter Maps Application** — Complete maps and routing UI for vehicle infotainment with GPS and Google Places integration.
-- **Enterprise Data Analytics** — Power BI & Tableau dashboards, Grafana monitoring, and Azure-based ETL for SSAB.
-
+- **Budgie** — Budgeting application for iOS with sporadic student income in mind. 
 (Links to code / demos provided in the repository or website Projects section.)
 
 ---
