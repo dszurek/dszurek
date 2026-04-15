@@ -38,7 +38,7 @@ MS Computer Science student focusing on autonomous vehicle systems, AI/ML, and s
 - Focus: Autonomous Systems, AI/ML, Reinforcement Learning
 - Research: MPC, hybrid DRL/MPC controllers, Gaussian Processes (expected publications)
 
-**B.S., Computer Science** — The University of Alabama (Expected Dec 2026)
+**B.S., Computer Science** — The University of Alabama (May 2026)
 
 - GPA: 3.88 — Honors College
 - Focus: Algorithms, AI/ML, Data Science
